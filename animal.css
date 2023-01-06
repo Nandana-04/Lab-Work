@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+}
+.container{
+    background-color: white;
+    height: 100vh;
+    width: 100vw;
+}
+
+
+    
+
+.item{
+    background-color: rgb(53, 3, 3);
+    width: 150px;
+    height: 90px;
+    border-radius:25% ;
+    color: white;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tiger{
+    position: absolute;
+    top: 70px;
+    left: 52px;
+
+}
+.yak{
+   
+    position: absolute;
+    top: 50px;
+    left:300px ;
+}
+.rhino{
+    position: absolute;
+     top: 30px; 
+     right: 30px;
+}
+.elephant{
+    position: absolute;
+    top: 134px;
+    right: 50px;
+}
+.fox{
+    position: absolute;
+    top: 150px;
+    right: 400px;
+}
+.lion{
+    position: absolute;
+    top: 250px;
+    left: 9px;
+}
+.giraffe{
+    position: absolute;
+    top: 240px;
+    left: 195px;
+}
+.leopard{
+    position: absolute;
+
+    top: 290px;
+    right: 351px;
+}
+.iguana{
+    position: absolute;
+    top: 220px;
+    right: 200px;
+}
+.tiger1{
+    position: absolute;
+    right: 30px;
+    top: 250px;
+}
+.tigeremoji{
+    font-size: 25px;
+    position: absolute;
+    top: 82px;
+    left: 112px;
+}
+.yakemoji{
+    font-size: 25px;
+    position: absolute;
+    top: 56px;
+    left: 350px;
+}
+.rhinoemoji{
+    font-size: 25px;
+    position: absolute;
+    top: 33px;
+    right: 91px;
+}
+.elephantemoji{
+    font-size: 25px;
+    position: absolute;
+    top: 144px;
+    right: 110px;
+}
+.foxemoji{
+    font-size: 25px;
+    position: absolute;
+    top: 160px;
+    right: 455px;
+}
+.lionemoji{
+    font-size: 25px;
+    position: absolute;
+    position: absolute;
+    top: 260px;
+    left: 65px;
+}
+.giraffeemoji{
+    font-size: 25px;
+    position: absolute;
+    top: 250px;
+    left: 255px;
+}
+.leopardemoji{
+    font-size: 25px;
+    position: absolute;
+    top: 300px;
+    right: 399px;
+}
+.iguanaemoji{
+    font-size: 25px;
+    position: absolute;
+    top: 230px;
+    right: 260px;
+}
+.tiger1emoji{
+    font-size: 25px;
+    position: absolute;
+    right: 90px;
+    top: 255px;
+}

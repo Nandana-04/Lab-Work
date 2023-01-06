@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+}
+.green{
+    width: 100vw;
+    height: 80vh;
+    background-color: green;
+    border-radius: 7px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    
+}
+
+.white{
+    height: 39vh;
+    width: 20vw;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.smallgreencontainer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.smallgreen{
+    width: 30px;
+    height: 30px;
+    background-color: springgreen;
+    border-radius: 7px;
+}
+
+.largegreencontainer{
+    display: flex;
+    justify-content: center;
+}
+
+.largegreen{
+    width: 15vw;
+    height: 10vh;
+    background-color: springgreen;
+    border-radius: 7px;
+
+}
+
+
+.blue{
+    width: 100vw;
+    height: 20vh;
+    background-color: aqua;
+   
+}

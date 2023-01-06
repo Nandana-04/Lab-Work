@@ -1,0 +1,30 @@
+.mid{
+    display: flex;
+    flex-direction:column;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    background-color: aqua;
+    height: 100vh;
+}
+
+.mid1{
+    display: flex;
+}
+
+.mid2{
+    display: flex;
+}
+
+.item{
+    background-color: rgb(139, 139, 219);
+    width:50px;
+    height: 50px;
+    margin:5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
